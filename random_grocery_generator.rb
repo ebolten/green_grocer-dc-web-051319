@@ -55,3 +55,31 @@ coupons.each do |coupon|
 end
 
 puts "Your total is #{checkout(cart: cart, coupons: coupons)}"
+
+
+def consolidate_cart
+
+end
+
+
+def apply_coupons
+end
+
+
+def apply_clearance
+  clearance = .20
+
+  
+
+end
+
+
+
+
+
+
+
+
+
+
+#hi
